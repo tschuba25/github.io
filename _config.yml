@@ -7,9 +7,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Navigation order override
-nav_order: 1
 
-# (Optional) You can disable post navigation arrows
-minima:
-  show_nav: true

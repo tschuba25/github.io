@@ -1,13 +1,15 @@
 title: tschuba25
 theme: minima
+
+# Optional plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
 
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: default
+# Navigation order override
+nav_order: 1
+
+# (Optional) You can disable post navigation arrows
+minima:
+  show_nav: true

@@ -8,5 +8,4 @@ nav_order: 1
 
 This site contains my personal projects and notes.
 
-- [🏃 Sport](/sport)
-- [🧠 Personal Blog](/blog)
+- [🧠 Thoughts and Dreams](/blog)
